@@ -1,3 +1,4 @@
 # test-website
 
-My first project
+First ecommerce website
+
